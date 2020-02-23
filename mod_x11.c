@@ -1,6 +1,6 @@
 /* 
- * FreeSWITCH Modular Media Switching Software Library / Soft-Switch Application
- * Copyright (C) 2015, Seven Du <dujinfang@gmail.com>
+ * FreeSWITCH Module to interact with X11 Desktop
+ * Copyright (C) 2015-2020, Seven Du <dujinfang@gmail.com>
  *
  * Version: MPL 1.1
  *
@@ -14,7 +14,7 @@
  * for the specific language governing rights and limitations under the
  * License.
  *
- * The Original Code is FreeSWITCH Modular Media Switching Software Library / Soft-Switch Application
+ * The Original Code is FreeSWITCH Module to interact with X11 Desktop
  *
  * The Initial Developer of the Original Code is
  * Seven Du <dujinfang@gmail.com>
